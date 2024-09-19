@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mdiil.github.io/jCG/sitemap.jCG.gz
